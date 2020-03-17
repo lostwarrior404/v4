@@ -1,14 +1,14 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+date: '2017-12-01'
+title: 'Sentiment Analysis of News for enhancing trading strategies'
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
+  - Python
+  - Keras
+  - AWS
+  - Deep Learning
+company: 'LCSS IIITD'
 showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+This is my Bachelor Thesis/Project aiming to extract meaningful signals from news
+sites(Reuters/Bloomberg) to derive a trading strategy for Indian Markets using Deep NLP.

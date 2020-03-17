@@ -1,14 +1,13 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+date: '2018-01-01'
+title: 'Adversarial Learning on Medical Image Dataset'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
-company: 'Apple'
+  - Keras
+  - Python
+  - Deep Learning
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+We created adversarial attacks for deep learning architectures on medical databases.
+Although creation, detection and mitigation of such attacks is a popular research problem,
+but addressing this with respect to medical data has never been done.

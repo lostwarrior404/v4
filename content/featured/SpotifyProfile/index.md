@@ -1,15 +1,15 @@
 ---
-date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+date: '3'
+title: 'Atari From Pixels'
+cover: './atari.png'
+github: 'https://github.com/lostwarrior404/Deep-RL'
+external: 'https://gym.openai.com/'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Python
+  - Deep Learning
+  - Reinforcement Learning
+  - OpenAI gym API
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Implemented a deep reinforcement learning based agent, inspired from Google DeepMind, to play Atari games on open AI gym using on game screens.Trained the agent to achieve superhuman performance on Breakout and pong.The bot was trained on an AWS GPU cluster.

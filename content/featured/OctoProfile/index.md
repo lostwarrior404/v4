@@ -1,14 +1,14 @@
 ---
-date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '2'
+title: 'Peek'
+cover: './temp.jpg'
+github: 'https://github.com/lostwarrior404/Peek'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Android
+  - FireBase
+  - MySQL
+  - Proto
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+One of first Android App I developed in college with a basic UI. The Backend for the app could determine the location of user using wifi-router ID and help them access relevant college facilities nearby. The App also had an in-app location based chat room and a hotspot detection framework.
