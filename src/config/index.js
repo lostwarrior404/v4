@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Tushar Kataria | Software Engineer',
   siteDescription:
-    'Tushar Kataria is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Tushar Kataria is a software engineer based in Bangalore who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
     'Tushar Kataria, Tushar, Kataria, tushar, software engineer, back-end engineer, web developer, golang, IIITD',
   siteUrl: 'https://brittanychiang.com',
